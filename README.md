@@ -49,9 +49,9 @@ Q: Where is this hosted??
 A: you can install it here http://ps4exploits.darksoftware.xyz/5.05/Update-Blocker-Extreme/
 
 ## Credits
-Flatz
-XVortex
-Sistro
-Joonie
-anyone else i forgot
+1. Flatz
+2. XVortex
+3. Sistro
+4. Joonie
+5. anyone else i forgot
 
