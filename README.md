@@ -37,9 +37,6 @@ A: yes
 
 Q: How do i get back my CA_List.cert if i deleted the "deletedstuff" folder?
 
-A: Reinstall your FW
-
-Q: How do i get back my CA_List.cert if i deleted the "deletedstuff" folder?
 
 A: Reinstall your FW
 
