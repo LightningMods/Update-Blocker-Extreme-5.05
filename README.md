@@ -28,24 +28,31 @@ Uninstaller: http://ps4exploits.darksoftware.xyz/5.05/UB-Uninstaller/
 FAQ
 
 Q: Why hasnt it dumped app.db to my USB?
+
 A: it ONLY dumps to USB0 (one by the BD Drive)
 
 Q: Will the uninstaller uninstall the reg. Update Block too?
+
 A: yes
 
 Q: How do i get back my CA_List.cert if i deleted the "deletedstuff" folder?
+
 A: Reinstall your FW
 
 Q: How do i get back my CA_List.cert if i deleted the "deletedstuff" folder?
+
 A: Reinstall your FW
 
 Q: How do i copy a whole directory to /update/?
+
 A: make a folder on your USB called "Up_Block" anything it is will be copied to /update/
 
 Q: Is this Permanent?
+
 A: All the directories and copied files are 
 
 Q: Where is this hosted??
+
 A: you can install it here http://ps4exploits.darksoftware.xyz/5.05/Update-Blocker-Extreme/
 
 ## Credits
