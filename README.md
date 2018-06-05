@@ -37,8 +37,7 @@ A: yes
 
 Q: How do i get back my CA_List.cert if i deleted the "deletedstuff" folder?
 
-
-A: Reinstall your FW
+A: Format your HDD and Reinstall your FW
 
 Q: How do i copy a whole directory to /update/?
 
