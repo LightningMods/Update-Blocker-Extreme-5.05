@@ -52,10 +52,13 @@ Q: Where is this hosted??
 A: you can install it here http://ps4exploits.darksoftware.xyz/5.05/Update-Blocker-Extreme/
 
 ## Credits
-1. Flatz
-2. XVortex
-3. Sistro
-4. Joonie
-5. anyone else i forgot
+* LightningModz for the Extreme Update Blocking
+* Flatz for the RW partition remounting
+* xerpi and idc for libftps4
+* XVortex for impr
+* Sistro for FW spoofing
+* Joonie for helping
+* CelesteBlue for the simple Update Blocking
+* anyone else I forgot
 
 .
